@@ -9,9 +9,9 @@
 </head>
 
 <body>
-    <div class="header">
+    <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+        <nav>
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -23,11 +23,12 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
-    </div>
+        </nav>
+    </header>
     <div class="hero"></div>
     <section class="content">
-        <div class="search-engine-optimization">
+        <!-- Removed extra id and changes class to services for child elements -->
+        <div class="services">
                 <!-- Added alt attribute for accesibility -->
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left"  alt="Search Engine Optimization"/>
             <h2>Search Engine Optimization</h2>
@@ -35,16 +36,18 @@
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
         </div>
-        <div id="online-reputation-management" class="online-reputation-management">
+        <!-- Removed extra id and changes class to services for child elements -->
+
+        <div class="services">
                 <!-- Added alt element for accesibility -->
-            <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Online Reputation Management" />
+            <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Online Reputation Management"/>
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </div>
             <!-- Added alt element for accesibility -->
-        <div id="social-media-marketing" class="social-media-marketing">
+        <div class="services">
             <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="Social Media Marketing"/>
             <h2>Social Media Marketing</h2>
             <p>
@@ -78,12 +81,13 @@
             </p>
         </div>
     </section>
-    <div class="footer">
+    <!-- changed class footer to semantic HTML footer -->
+    <footer>
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2023 Horiseon Social Solution Services, Inc.
         </p>
-    </div>
+    </footer>
 </body>
 
 </html>
