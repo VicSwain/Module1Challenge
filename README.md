@@ -9,10 +9,14 @@ I also encounted putting an extra "/" in the CSS by accident which caused a simi
 Finally, I had to troubleshoot how to make the nav element match the styling as the previous div element. 
 I feel there is very adequate commenting to see what part of the code is refactored, while leaving the extra code as a comment to allow someone to learn just by looking at this. 
 
-## Screenshot
+### Collaboration
+I pair programmed this project with Noah Kagney
 
+#### Screenshot
 ![Webpage Screenshot](assets/images/HoriseonModule1Challenge.png)
 
+#### URL
+https://vicswain.github.io/Module1Challenge/
 
 
 
