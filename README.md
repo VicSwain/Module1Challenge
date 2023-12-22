@@ -11,7 +11,7 @@ I feel there is very adequate commenting to see what part of the code is refacto
 
 ## Screenshot
 
- ![Alttext](assets\images\HoriseonModule1Challenge.png)
+ ![Alttext](assets\images\HoriseonModule1Challenge.png?raw=true)
 
 
 
