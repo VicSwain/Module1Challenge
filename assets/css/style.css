@@ -225,8 +225,6 @@ nav li {
 }
 
 nav a {
-    display: block;
-    height: 40%; 
-    line-height: 40%;
+    margin-right: 10px;
     
 } 
