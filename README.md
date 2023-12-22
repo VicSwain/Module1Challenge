@@ -11,9 +11,9 @@ I feel there is very adequate commenting to see what part of the code is refacto
 
 ## Screenshot
 
- ![Webpage Screenshot](assets\images\HoriseonModule1Challenge.png)
+ 
 
-![](assets/HoriseonModule1Challenge.png)
+![Webpage Screenshot](assets/HoriseonModule1Challenge.png?raw=true)
 
 
 
