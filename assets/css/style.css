@@ -204,23 +204,29 @@ footer h2 {
 }
 /* added nav bar styling with child element */
 nav {
-   position: fixed;top: 10px;right: 5px;
-   
-}
+    display: flex
+    flex-direction: row;
+    justify-content: flex-end;
+    }
 
+    /* added CSS elements to nav bar */
 nav ul {
     list-style: none;
-   
+    align-content: space-between;
+    text-align: right;
+    
  }
 
 nav li {
     display: inline-block;
     padding: 5px;
-    position: relative;top: 20px;
+    
+    
 }
 
 nav a {
     display: block;
     height: 40%; 
     line-height: 40%;
+    
 } 

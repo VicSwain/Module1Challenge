@@ -9,7 +9,9 @@ I also encounted putting an extra "/" in the CSS by accident which caused a simi
 Finally, I had to troubleshoot how to make the nav element match the styling as the previous div element. 
 I feel there is very adequate commenting to see what part of the code is refactored, while leaving the extra code as a comment to allow someone to learn just by looking at this. 
 
-## Usage 
+## Screenshot
+
+ ![Alttext](assets\images\HoriseonModule1Challenge.png)
 
 
 
@@ -19,24 +21,3 @@ I feel there is very adequate commenting to see what part of the code is refacto
 
 
 
-### User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-
-
-#### Acceptance Criteria
--GIVEN a webpage meets accessibility standards
--WHEN I view the source code
-THEN I find semantic HTML elements
--WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
--WHEN I view the heading attributes
-THEN they fall in sequential order
-
-
-
-
-
--*WHEN I view the image elements
-THEN I find accessible alt attributes
